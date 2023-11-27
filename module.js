@@ -15,3 +15,5 @@ function binaryToDecimal(binary) {
   });
   return hasil;
 }
+
+function sayHello() {}
