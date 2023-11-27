@@ -15,5 +15,3 @@ function binaryToDecimal(binary) {
   });
   return hasil;
 }
-
-console.info(binaryToDecimal("11111111"));
