@@ -11,7 +11,6 @@ function binaryToDecimal(binary) {
   let hasil = 0;
   arrBin.forEach((val, i) => {
     hasil += val * rumus[i];
-    console.info(`hasil = ${hasil}`);
   });
   return hasil;
 }
